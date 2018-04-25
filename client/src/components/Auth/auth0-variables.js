@@ -10,7 +10,7 @@ export const AUTH_CONFIG = {
 
     domain: 'mentor-match.auth0.com',
     clientId: 'srfL4vr5SB0gSsS8yne5OQxJjhWFKMKc',
-    callbackUrl: 'http://localhost:3000/callback'
-    // callbackUrl: 'https://mentor-match-learn2code.herokuapp.com/callback'
+    // callbackUrl: 'http://localhost:3000/callback'
+    callbackUrl: 'https://stark-hamlet-61290.herokuapp.com/callback'
 
 }
